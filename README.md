@@ -37,8 +37,6 @@ Here is examples.
 - Name: **Perfunctory Robot**
 - Invocation Name: **perfunctory robot**
 
--
-
 ##### Interaction Model (in JSON format):
 
 	
@@ -182,4 +180,4 @@ But these are basic need.
 
 ### License
 
-MIT
+MIT License
